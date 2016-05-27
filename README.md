@@ -25,6 +25,7 @@ We are looking for engineers that can lead technology and design decisions witho
 
 <h3>Getting Started </h3>
 <ul>
-<li>Register for a free API key at: https://developer.forecast.io/</li>
-<li>Commit your code, and create a pull request</li>
+  <li>Fork this repository</li>
+  <li>Register for a free API key at: https://developer.forecast.io/</li>
+  <li>Commit your code, and send us a pull request when you are finished.</li>
 </ul>
